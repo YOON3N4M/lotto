@@ -1,0 +1,7 @@
+.num-ul{
+    display: flex;
+}
+li {
+    list-style: none;
+    margin-left: 10px;
+}
